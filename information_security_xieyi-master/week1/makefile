@@ -1,0 +1,2 @@
+testmymath: main20181312.o add20181312.o sub20181312.o mul20181312.o div20181312.o
+	gcc main20181312.o add20181312.o sub20181312.o mul20181312.o div20181312.o -o testmymath
